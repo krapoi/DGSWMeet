@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010936880894",
+    "project_id": "dgswmeet",
+    "storage_bucket": "dgswmeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010936880894:android:8856451bcadd225a8bcfaf",
+        "android_client_info": {
+          "package_name": "com.example.meet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010936880894-tnclqor1ui4fe5qdc8i921rs2rjbdp4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWzt1ks4zBzcVZYhNyPDcYj_SAO-AdswQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010936880894-tnclqor1ui4fe5qdc8i921rs2rjbdp4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
