@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "1010936880894",
-    "project_id": "dgswmeet",
-    "storage_bucket": "dgswmeet.appspot.com"
+    "project_number": "510621918690",
+    "project_id": "sogomeet",
+    "storage_bucket": "sogomeet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1010936880894:android:8856451bcadd225a8bcfaf",
+        "mobilesdk_app_id": "1:510621918690:android:290932a58db947e465c5bb",
         "android_client_info": {
           "package_name": "com.example.meet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1010936880894-tnclqor1ui4fe5qdc8i921rs2rjbdp4e.apps.googleusercontent.com",
+          "client_id": "510621918690-nvrivjob3nrg11ouv3t09kt3blccpjon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meet",
+            "certificate_hash": "fb23ed0e155484d3de8184fcf24c3fe73f3296bb"
+          }
+        },
+        {
+          "client_id": "510621918690-6mis8ogmpjsd4gkvhtnda73i2ivgpufq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBWzt1ks4zBzcVZYhNyPDcYj_SAO-AdswQ"
+          "current_key": "AIzaSyCF_EZkdzGybVVpI4tY09hiQ-LkKiVhRGY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1010936880894-tnclqor1ui4fe5qdc8i921rs2rjbdp4e.apps.googleusercontent.com",
+              "client_id": "510621918690-6mis8ogmpjsd4gkvhtnda73i2ivgpufq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
